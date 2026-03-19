@@ -35,7 +35,7 @@ Usuário: "como está o clima em São Paulo?"
 ---
 
 ## 📁 Estrutura do Projeto
-
+```
 src/
 │── app.py             # Núcleo do sistema
 │── brain.py           # Integração com OpenAI (inteligência)
@@ -45,7 +45,7 @@ src/
 │── memory.json        # Base de dados local (gerado automaticamente)
 │── requirements.txt
 │── .env
-
+```
 ---
 
 ## ⚙️ Instalação
